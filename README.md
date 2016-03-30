@@ -3,7 +3,7 @@ A choose your own adventure game brought to you by Dannon OIKOS Triple Zero Gree
 
 ----------------------------------
 
-This project was created to fulfill an assignment for The Iron Yard Charleston's Front-End Engineering course. The original ssignment text is below:
+This project was created to fulfill an assignment for The Iron Yard Charleston's Front-End Engineering course. The original assignment text is below:
 
 ----------------------------------
 
